@@ -1,0 +1,6 @@
+{
+  "name": "Fitness Freak Ladies Gym",
+  "description": "Premium ladies-only wellness and fitness sanctuary featuring luxury yoga, pilates, aerobics, and customized personal coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
